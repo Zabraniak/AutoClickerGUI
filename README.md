@@ -54,7 +54,7 @@ This application requires Python 3.7 or higher. You can download Python from the
 No additional dependencies are needed. The application uses the built-in tkinter, pyautogui, and time modules.
 
 ## Screenshots
-Auto Clicker GUI (COMING SOON)
+![Auto Clicker GUI](https://i.imgur.com/KqSIGQY.png)
 
 ## Contributing
 Contributions are welcome! If you happen to have any improvements or new features to add, feel free to fix this repository, make your changes, and submit a pull request.
