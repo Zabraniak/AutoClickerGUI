@@ -32,14 +32,14 @@ Auto Clicker GUI Application is a user-friendly tool that lets you automate mous
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Zabraniak/auto-clicker-gui.git
+   git clone https://github.com/Zabraniak/AutoClickerGUI.git
 
 2. Navigate to the repository folder.
 
 3. Run the application:
 
    ```sh
-   python auto_clicker_gui.py
+   python filename.py
 
 4. The GUI window will appear, allowing you to input the delay and number of clicks.
 
