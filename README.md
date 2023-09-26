@@ -57,7 +57,7 @@ No additional dependencies are needed. The application uses the built-in tkinter
 ![Auto Clicker GUI](https://i.imgur.com/KqSIGQY.png)
 
 ## Contributing
-Contributions are welcome! If you happen to have any improvements or new features to add, feel free to fix this repository, make your changes, and submit a pull request.
+Contributions are welcome! If you have any improvements or new features to add, feel free to fork this repository, make your changes, and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
